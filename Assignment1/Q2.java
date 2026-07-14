@@ -9,7 +9,7 @@ public class Q2 {
         for(int i=0;i<=10;i++)
         {
             int pro=num*i;
-            System.out.printf("%d * %d = %d\n",num,i,pro);
+            System.out.printf("%d * %d = %d\n2",num,i,pro);
         }
         in.close();
     }    
